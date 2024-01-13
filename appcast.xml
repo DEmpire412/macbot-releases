@@ -3,10 +3,10 @@
     <channel>
         <title>MacBot</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Sat, 13 Jan 2024 00:37:37 -0500</pubDate>
-            <sparkle:version>1.0.1</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <title>1.0.1.1</title>
+            <pubDate>Sat, 13 Jan 2024 00:54:05 -0500</pubDate>
+            <sparkle:version>1.0.1.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
@@ -15,7 +15,7 @@
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="13013506" type="application/octet-stream" sparkle:edSignature="vuzHZsTtkFyparkXDPH919HcvHR9t5nRKIz+lE7YbwokcIm8QexweSgt1i9XAgCsGbKE72V45FhBnKwFA7aSCA=="/>
+            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="13028215" type="application/octet-stream" sparkle:edSignature="9zFgoFu1yNdgndL2EB3ZWHc4bjaqpiYpaUugMwWUNoVU62xhW/WXoCYZ3machG2cabmlex4KILa6OL6GBYokCA=="/>
         </item>
     </channel>
 </rss>
