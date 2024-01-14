@@ -3,20 +3,19 @@
     <channel>
         <title>MacBot</title>
         <item>
-            <title>1.0.5</title>
-            <pubDate>Sat, 13 Jan 2024 21:34:26 -0500</pubDate>
-            <sparkle:version>1.0.5</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <title>1.0.6</title>
+            <pubDate>Sun, 14 Jan 2024 11:22:30 -0500</pubDate>
+            <sparkle:version>1.0.6</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
                 <ul>
-                    <li>Tip Jar if you feel like tipping us after downloading.</li>
-                    <li>Feedback Form and Tip Jar now open as a sheet instead of a link.</li>
+                    <li>Sign in/out bug fixed with Bard web view.</li>
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="13029803" type="application/octet-stream" sparkle:edSignature="MYqrkUg1lCBN7LHjAexD7GJAhvq8RRg2mpG4N62lHhFtpREu8F6+pUNEwzbu8CyGdMf7jec/9RT73tEjWp+DCA=="/>
+            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="13020647" type="application/octet-stream" sparkle:edSignature="gxuxs+TT2lGgDcgxIeh1l3FE3HBkHRwDSxhqLiBR7qUwcDls6l4dihMCfglbsOF4XQ3Hne+vKhQihqqkfrkjCQ=="/>
         </item>
     </channel>
 </rss>
