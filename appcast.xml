@@ -3,19 +3,19 @@
     <channel>
         <title>MacBot</title>
         <item>
-            <title>1.0.6</title>
-            <pubDate>Sun, 14 Jan 2024 11:22:30 -0500</pubDate>
-            <sparkle:version>1.0.6</sparkle:version>
-            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <title>1.1</title>
+            <pubDate>Sun, 14 Jan 2024 17:35:47 -0500</pubDate>
+            <sparkle:version>1.1</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
                 <ul>
-                    <li>Sign in/out bug fixed with Bard web view.</li>
+                    <li>More GPT models available.</li>
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="13020647" type="application/octet-stream" sparkle:edSignature="gxuxs+TT2lGgDcgxIeh1l3FE3HBkHRwDSxhqLiBR7qUwcDls6l4dihMCfglbsOF4XQ3Hne+vKhQihqqkfrkjCQ=="/>
+            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="13022395" type="application/octet-stream" sparkle:edSignature="VMG1/A0O1VcseBtsr3TEbfCpQD0uniyoU0p02Jk+aR2NkAvJILtkN6tWH/yiU3NAbp2wlHn2hxgxYJDVxPCJCA=="/>
         </item>
     </channel>
 </rss>
