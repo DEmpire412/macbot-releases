@@ -3,19 +3,19 @@
     <channel>
         <title>MacBot</title>
         <item>
-            <title>1.1.3.1</title>
-            <pubDate>Mon, 15 Jan 2024 14:44:10 -0500</pubDate>
-            <sparkle:version>1.1.3.1</sparkle:version>
-            <sparkle:shortVersionString>1.1.3.1</sparkle:shortVersionString>
+            <title>1.1.4</title>
+            <pubDate>Mon, 15 Jan 2024 18:35:31 -0500</pubDate>
+            <sparkle:version>1.1.4</sparkle:version>
+            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
                 <ul>
-                    <li>Minor UI improvements.</li>
+                    <li>Fixed native chat input field appearance in dark mode.</li>
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="13128625" type="application/octet-stream" sparkle:edSignature="Ah7keJvWO4l4z04/xncT29GP9muC45QHQZDUSKFu/U33ECnDeKtlHqXwjemcRCAWeaz2Vw+MrG2lJ9VtfNX3BQ=="/>
+            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="13124060" type="application/octet-stream" sparkle:edSignature="t0ZDzzq7trCsBpQNOGCl9pqSyswMQvLkK9budtT2dD0iZHg8yARD8lLP2lgfJ/epym2lSjTLODpTHExqYAkeBQ=="/>
         </item>
     </channel>
 </rss>
