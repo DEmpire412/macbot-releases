@@ -3,19 +3,19 @@
     <channel>
         <title>MacBot</title>
         <item>
-            <title>1.1.2</title>
-            <pubDate>Mon, 15 Jan 2024 02:52:14 -0500</pubDate>
-            <sparkle:version>1.1.2</sparkle:version>
-            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <title>1.1.3</title>
+            <pubDate>Mon, 15 Jan 2024 13:32:23 -0500</pubDate>
+            <sparkle:version>1.1.3</sparkle:version>
+            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
                 <ul>
-                    <li>You can now customize the toolbar.</li>
+                    <li>Temporarily disabled toolbar customization until we could figure out a way to save the customized toolbar.</li>
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="13120893" type="application/octet-stream" sparkle:edSignature="xuxZWCEyKz6aT1fwXrMQB0EU/IKPwseATipngY4F2peS6Uwiu823+tLQ1cIuxK+/cDpHwiocVaqM9HX+A/n7AA=="/>
+            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="13125488" type="application/octet-stream" sparkle:edSignature="52yC/BVE0jnAS8g1XFZ8PmroCwblXNuKbtzrtBbm+VGMPGqfrL0qbFKS/PooCml/W9+H+Hj+Ctnat566ZxSmCA=="/>
         </item>
     </channel>
 </rss>
