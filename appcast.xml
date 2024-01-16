@@ -3,19 +3,21 @@
     <channel>
         <title>MacBot</title>
         <item>
-            <title>1.1.4</title>
-            <pubDate>Mon, 15 Jan 2024 18:35:31 -0500</pubDate>
-            <sparkle:version>1.1.4</sparkle:version>
-            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <title>1.1.5</title>
+            <pubDate>Tue, 16 Jan 2024 14:01:39 -0500</pubDate>
+            <sparkle:version>1.1.5</sparkle:version>
+            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
                 <ul>
-                    <li>Fixed native chat input field appearance in dark mode.</li>
+                    <li>Microsoft Copilot Now Supported in Web View.</li>
+                    <li>Web view and native view can now be mixed and matched (for example, Bard web view with GPT native view).</li>
+                    <li>GPT web view file picker supports more file types.</li>
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="13124060" type="application/octet-stream" sparkle:edSignature="t0ZDzzq7trCsBpQNOGCl9pqSyswMQvLkK9budtT2dD0iZHg8yARD8lLP2lgfJ/epym2lSjTLODpTHExqYAkeBQ=="/>
+            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="13153628" type="application/octet-stream" sparkle:edSignature="lDDxHd2W06kFXdpAlbCxQw+iAX1ihZh+YYXa14NHTjFKmKJWK/IrOA4FGcTAYm8PBJpbU0iE0K+CqyCqmugyDA=="/>
         </item>
     </channel>
 </rss>
