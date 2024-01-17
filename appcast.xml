@@ -3,21 +3,20 @@
     <channel>
         <title>MacBot</title>
         <item>
-            <title>1.1.5</title>
-            <pubDate>Tue, 16 Jan 2024 14:01:39 -0500</pubDate>
-            <sparkle:version>1.1.5</sparkle:version>
-            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
+            <title>1.2</title>
+            <pubDate>Wed, 17 Jan 2024 06:42:25 -0500</pubDate>
+            <sparkle:version>1.2</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
                 <ul>
-                    <li>Microsoft Copilot Now Supported in Web View.</li>
-                    <li>Web view and native view can now be mixed and matched (for example, Bard web view with GPT native view).</li>
-                    <li>GPT web view file picker supports more file types.</li>
+                    <li>Global Mode now supported in MacBot. Invoke a floating MacBot window from anywhere using a customizeable keyboard shortcut (Command + Control + B by default). Web and native views supported.</li>
+                    <li>Poe now supported as a web view in MacBot.</li>
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="13153628" type="application/octet-stream" sparkle:edSignature="lDDxHd2W06kFXdpAlbCxQw+iAX1ihZh+YYXa14NHTjFKmKJWK/IrOA4FGcTAYm8PBJpbU0iE0K+CqyCqmugyDA=="/>
+            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="13192370" type="application/octet-stream" sparkle:edSignature="shu+lqnkHUrwn1BOGvhOP7eUQ6/79K2mIBfRh0HXSkdzt+Bw52foJ7bnmXBe5wC1Lv17kUoSnf94JGqXYTlWDQ=="/>
         </item>
     </channel>
 </rss>
