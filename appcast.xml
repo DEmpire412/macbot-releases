@@ -3,20 +3,19 @@
     <channel>
         <title>MacBot</title>
         <item>
-            <title>1.2</title>
-            <pubDate>Wed, 17 Jan 2024 06:42:25 -0500</pubDate>
-            <sparkle:version>1.2</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <title>1.2.0.1</title>
+            <pubDate>Wed, 17 Jan 2024 16:14:43 -0500</pubDate>
+            <sparkle:version>1.2.0.1</sparkle:version>
+            <sparkle:shortVersionString>1.2.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
                 <ul>
-                    <li>Global Mode now supported in MacBot. Invoke a floating MacBot window from anywhere using a customizeable keyboard shortcut (Command + Control + B by default). Web and native views supported.</li>
-                    <li>Poe now supported as a web view in MacBot.</li>
+                    <li>Minor bug fixes and improvements.</li>
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="13192370" type="application/octet-stream" sparkle:edSignature="shu+lqnkHUrwn1BOGvhOP7eUQ6/79K2mIBfRh0HXSkdzt+Bw52foJ7bnmXBe5wC1Lv17kUoSnf94JGqXYTlWDQ=="/>
+            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="13195426" type="application/octet-stream" sparkle:edSignature="EqqCiD4NYBhWAawk3d0goQyd2cVlFWrIUU9GzaJYTJVCOK3UKbqPYXUtxyWk5IhWWWBdkx4bakpPcovUFK/kBA=="/>
         </item>
     </channel>
 </rss>
