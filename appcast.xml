@@ -3,19 +3,20 @@
     <channel>
         <title>MacBot</title>
         <item>
-            <title>1.2.0.1</title>
-            <pubDate>Wed, 17 Jan 2024 16:14:43 -0500</pubDate>
-            <sparkle:version>1.2.0.1</sparkle:version>
-            <sparkle:shortVersionString>1.2.0.1</sparkle:shortVersionString>
+            <title>1.2.1</title>
+            <pubDate>Wed, 17 Jan 2024 19:00:37 -0500</pubDate>
+            <sparkle:version>1.2.1</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
                 <ul>
-                    <li>Minor bug fixes and improvements.</li>
+                    <li>Menu Bar width can now be configured in Settings (relaunch required for changes to take affect)</li>
+                    <li>Fixed issue where global view gets hidden when going into the menu bar in full screen</li>
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="13195426" type="application/octet-stream" sparkle:edSignature="EqqCiD4NYBhWAawk3d0goQyd2cVlFWrIUU9GzaJYTJVCOK3UKbqPYXUtxyWk5IhWWWBdkx4bakpPcovUFK/kBA=="/>
+            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="13196404" type="application/octet-stream" sparkle:edSignature="RTj0v+OypPFBmHmMgBbH844aiqAlnKzgZD2DYQAbVFjLwWry8e9c2q9rUxuxbnR5xTWYiBLx1m6+neaQeB0eCg=="/>
         </item>
     </channel>
 </rss>
