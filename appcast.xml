@@ -3,19 +3,19 @@
     <channel>
         <title>MacBot</title>
         <item>
-            <title>1.2.2</title>
-            <pubDate>Wed, 17 Jan 2024 23:56:45 -0500</pubDate>
-            <sparkle:version>1.2.2</sparkle:version>
-            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <title>1.2.3</title>
+            <pubDate>Thu, 18 Jan 2024 08:38:35 -0500</pubDate>
+            <sparkle:version>1.2.3</sparkle:version>
+            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
                 <ul>
-                    <li>Added custom URL support in case of web compatibility issues.</li>
+                    <li>Fixed issues with custom URLs.</li>
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="13207482" type="application/octet-stream" sparkle:edSignature="KTFd7ZSAwG2ngJem4V6r3xjIGFRZLGVOq3tQDC02M4vROm2PxT/Wi2SgPPEYNKA4hSx63fDhqCMXMuOPG9b0CA=="/>
+            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="13207030" type="application/octet-stream" sparkle:edSignature="jZ3mzI3uKjG/HQqPhGpznFkJBT6UC41AP25HW8p2I8nLVTANEf3GHlbhUor0NjhxVl63WAQ0doLuENuYwwqIAQ=="/>
         </item>
     </channel>
 </rss>
