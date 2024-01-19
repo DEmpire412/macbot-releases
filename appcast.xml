@@ -3,19 +3,19 @@
     <channel>
         <title>MacBot</title>
         <item>
-            <title>1.2.3</title>
-            <pubDate>Thu, 18 Jan 2024 08:38:35 -0500</pubDate>
-            <sparkle:version>1.2.3</sparkle:version>
-            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <title>1.2.4</title>
+            <pubDate>Thu, 18 Jan 2024 22:55:40 -0500</pubDate>
+            <sparkle:version>1.2.4</sparkle:version>
+            <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
                 <ul>
-                    <li>Fixed issues with custom URLs.</li>
+                    <li>Removed support for Ventura due to UI issues with toolbar and future features we're planning on adding.</li>
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="13207030" type="application/octet-stream" sparkle:edSignature="jZ3mzI3uKjG/HQqPhGpznFkJBT6UC41AP25HW8p2I8nLVTANEf3GHlbhUor0NjhxVl63WAQ0doLuENuYwwqIAQ=="/>
+            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="13181886" type="application/octet-stream" sparkle:edSignature="2gXzvP1ZV03o01XgFYkBXq3NUIX//VfcMZW0U3UYge5/JgipDsNuECNBVq0oA0Qzg/r3eu753Dgm/ehU19fHDA=="/>
         </item>
     </channel>
 </rss>
