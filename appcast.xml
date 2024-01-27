@@ -3,20 +3,19 @@
     <channel>
         <title>MacBot</title>
         <item>
-            <title>1.7</title>
-            <pubDate>Thu, 25 Jan 2024 20:09:18 -0500</pubDate>
-            <sparkle:version>40</sparkle:version>
-            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+            <title>1.7.1</title>
+            <pubDate>Sat, 27 Jan 2024 01:08:05 -0500</pubDate>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
                 <ul>
-                    <li>Markdown is now correctly displayed in native view.</li>
-                    <li>GPT Temperature can now be controlled.</li>
+                    <li>Minor UI changes and refinements.</li>
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="3616899" type="application/octet-stream" sparkle:edSignature="91Fgb/G7zZSSOIHJpXNP9A5KXkgHu4dlereI1gcDl3tvGiY4NH0sqJIrHDnJk+pdSCppOhegKDeGaOAd57OdDA=="/>
+            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="3724983" type="application/octet-stream" sparkle:edSignature="dY6McpgM3xH6Noc2mpv0CRL2ofsALOt9UCiMmP5udDMNK4abdOaO5crGPwZHFn/x9/sAL/sGtPOJHn0Euo+7Bw=="/>
         </item>
     </channel>
 </rss>
