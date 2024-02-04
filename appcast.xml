@@ -3,19 +3,19 @@
     <channel>
         <title>MacBot</title>
         <item>
-            <title>1.7.2</title>
-            <pubDate>Sun, 28 Jan 2024 14:19:21 -0500</pubDate>
-            <sparkle:version>42</sparkle:version>
-            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+            <title>1.7.5</title>
+            <pubDate>Sun, 04 Feb 2024 00:51:06 -0500</pubDate>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>1.7.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
                 <ul>
-                    <li>Added chat generation cancel button in native view.</li>
+                    <li>Added token counter to GPT native view.</li>
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/macbot.dmg" length="3723419" type="application/octet-stream" sparkle:edSignature="gcn3t/1DkMVHr3XJ3qperMWQMNuI7AR2HlEmtHnXN6NbH/+qb4IoTfUcSa1O/yfSk0vGuLIFfqYkfW2K2fSCCw=="/>
+            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/MacBot.dmg" length="4419615" type="application/octet-stream" sparkle:edSignature="FLPIpXXX8Zv8SeTIgWVsXBAZ65xsniDYLj6yQwmM91g0nch9LR6qaruwWTzkBNRcskbyNCUc5VuPTXFB6m7iDQ=="/>
         </item>
     </channel>
 </rss>
