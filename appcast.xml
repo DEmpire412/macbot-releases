@@ -3,19 +3,20 @@
     <channel>
         <title>MacBot</title>
         <item>
-            <title>1.7.5</title>
-            <pubDate>Sun, 04 Feb 2024 01:24:43 -0500</pubDate>
-            <sparkle:version>44</sparkle:version>
-            <sparkle:shortVersionString>1.7.5</sparkle:shortVersionString>
+            <title>2.0</title>
+            <pubDate>Sun, 04 Feb 2024 21:38:13 -0500</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
                 <ul>
-                    <li>Added token counter to GPT native view.</li>
+                    <li>DALL-E is now supported in the main window native view.</li>
+                    <li>Native view models can now be separate for main, global, and menu bar.</li>
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/MacBot.dmg" length="4417306" type="application/octet-stream" sparkle:edSignature="X70+zZdJLwX/eftH53x9dBmYzMtEF0hvuT4vTQWhnf5XS2r82tnGO41qG9c53sCRUkM9QPT9oNsvC2M4VQnxDQ=="/>
+            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/MacBot.dmg" length="4429724" type="application/octet-stream" sparkle:edSignature="FHymiT1dzn/h+N2EZAsrFOZFlKsPlWFWeRf+x22+OAjVXTghKsztHXffoWVcyW93dAqaWLUHnlydKz25eWlpAw=="/>
         </item>
     </channel>
 </rss>
