@@ -16,7 +16,7 @@
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://dempire412.github.io/macbot-releases/MacBot.dmg" length="4472371" type="application/octet-stream" sparkle:edSignature="7xERUPY5mdR4xPzV8QrrmjyEFYws0nnS4ibVFkUgMpUgvMeGvxKzN0vFpDQ9KaW/PvwD7+D+WwE2wDNSmdo0Bw=="/>
+            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/MacBot.dmg" length="4472371" type="application/octet-stream" sparkle:edSignature="7xERUPY5mdR4xPzV8QrrmjyEFYws0nnS4ibVFkUgMpUgvMeGvxKzN0vFpDQ9KaW/PvwD7+D+WwE2wDNSmdo0Bw=="/>
         </item>
     </channel>
 </rss>
