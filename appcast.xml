@@ -3,19 +3,20 @@
     <channel>
         <title>MacBot</title>
         <item>
-            <title>2.1</title>
-            <pubDate>Tue, 06 Feb 2024 08:44:56 -0500</pubDate>
+            <title>2.1.1</title>
+            <pubDate>Tue, 06 Feb 2024 10:43:27 -0500</pubDate>
             <sparkle:version>48</sparkle:version>
-            <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
                 <ul>
-                    <li>Improved Native View UI.</li>
+                    <li>Models can now be shown or hidden from view in settings.</li>
+                    <li>Dall-E now shows up in global view (not Spotlight).</li>
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/MacBot.dmg" length="4442363" type="application/octet-stream" sparkle:edSignature="L8cfPAv1venwhTY3EaXP2jCEePztkY0yB0YIiTlj97rHNG9VzThVso80oVqX9jcvMUyQMozZtlovp+ySueVbBw=="/>
+            <enclosure url="https://dempire412.github.io/macbot-releases/MacBot.dmg" length="4472371" type="application/octet-stream" sparkle:edSignature="7xERUPY5mdR4xPzV8QrrmjyEFYws0nnS4ibVFkUgMpUgvMeGvxKzN0vFpDQ9KaW/PvwD7+D+WwE2wDNSmdo0Bw=="/>
         </item>
     </channel>
 </rss>
