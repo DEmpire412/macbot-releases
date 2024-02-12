@@ -3,20 +3,19 @@
     <channel>
         <title>MacBot</title>
         <item>
-            <title>2.2.2</title>
-            <pubDate>Thu, 08 Feb 2024 16:56:04 -0500</pubDate>
-            <sparkle:version>52</sparkle:version>
-            <sparkle:shortVersionString>2.2.2</sparkle:shortVersionString>
+            <title>2.2.3</title>
+            <pubDate>Sun, 11 Feb 2024 22:15:57 -0500</pubDate>
+            <sparkle:version>53</sparkle:version>
+            <sparkle:shortVersionString>2.2.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
                 <ul>
-                    <li>Renamed Bard to Gemini following Google's branding.</li>
-                    <li>Minor UI changes and bug fixes.</li>
+                    <li>Added "tall" option for menu bar view.</li>
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/MacBot.dmg" length="4482465" type="application/octet-stream" sparkle:edSignature="WwnVf6cScboJfO28aHhfLruhY5115hg7eTnEFEFAQOGIv5ShNtu2uAVVhYTSr0HQ8rn3NG7Q0iyVqf+EbleEDg=="/>
+            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/MacBot.dmg" length="4485576" type="application/octet-stream" sparkle:edSignature="UNk1iaJlO3wYsIkXP/W2lCEJmWPVPQOp+MOcsZAsFOWF4IUU5pzAZaJS1NnvPCzeCdqbvVnvOEGRfBDLsR/fDQ=="/>
         </item>
     </channel>
 </rss>
