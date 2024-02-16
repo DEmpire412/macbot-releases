@@ -3,19 +3,19 @@
     <channel>
         <title>MacBot</title>
         <item>
-            <title>2.3.3</title>
-            <pubDate>Wed, 14 Feb 2024 19:46:55 -0500</pubDate>
-            <sparkle:version>59</sparkle:version>
-            <sparkle:shortVersionString>2.3.3</sparkle:shortVersionString>
+            <title>2.3.4</title>
+            <pubDate>Thu, 15 Feb 2024 21:59:30 -0500</pubDate>
+            <sparkle:version>60</sparkle:version>
+            <sparkle:shortVersionString>2.3.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
                 <ul>
-                    <li>Web view now supports back/forward swiping gestures.</li>
+                    <li>Improved Global Mode.</li>
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/MacBot.dmg" length="5465659" type="application/octet-stream" sparkle:edSignature="4xuYmLlnKIBrYyI4gU5zjlbO/KhIXmWWn9sdwtwF295CQSg+Mv3QktUGHW1iCeRZ2cpxAxteKf9vWfn6G8MBDA=="/>
+            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/MacBot.dmg" length="5463638" type="application/octet-stream" sparkle:edSignature="NiQudifMY6pNiTycO4qxv+R2zwbtGqGnYZw8LYNMN6XAQNljg9kBRc6tCOzzpgegFmpy3qq1ErMygnxTuMDtBA=="/>
         </item>
     </channel>
 </rss>
