@@ -4,8 +4,8 @@
         <title>MacBot</title>
         <item>
             <title>2.3.5</title>
-            <pubDate>Sat, 17 Feb 2024 21:55:51 -0500</pubDate>
-            <sparkle:version>61</sparkle:version>
+            <pubDate>Sat, 17 Feb 2024 22:17:44 -0500</pubDate>
+            <sparkle:version>62</sparkle:version>
             <sparkle:shortVersionString>2.3.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -15,7 +15,7 @@
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/MacBot.dmg" length="5471335" type="application/octet-stream" sparkle:edSignature="PoBHTbzj1iuuxIjEKGxTOuHzLLfkSnpsNZg2OGFl6cCBBNDxd7pvLWlpHNZoGgwHVJWaUtSvhAH2VvI6r8ULCg=="/>
+            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/MacBot.dmg" length="5470106" type="application/octet-stream" sparkle:edSignature="E+LLn6Qu6/bSCVlCoK15cPvDU379gt3Dv7nM+UJ0spSfvY94nqtkJyTPBhkRVmZdQEZ+kr0m1Rm67E9apec3BQ=="/>
         </item>
     </channel>
 </rss>
