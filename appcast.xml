@@ -3,19 +3,20 @@
     <channel>
         <title>MacBot</title>
         <item>
-            <title>2.3.5</title>
-            <pubDate>Sat, 17 Feb 2024 22:17:44 -0500</pubDate>
-            <sparkle:version>62</sparkle:version>
-            <sparkle:shortVersionString>2.3.5</sparkle:shortVersionString>
+            <title>2.4</title>
+            <pubDate>Tue, 12 Mar 2024 09:11:06 -0400</pubDate>
+            <sparkle:version>63</sparkle:version>
+            <sparkle:shortVersionString>2.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
                 <ul>
-                    <li>Toolbar customization now available in Settings. Changes reflect app-wide.</li>
+                    <li>GPT Temperature bug fixed.</li>
+                    <li>Create new window bug fixed.</li>
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/MacBot.dmg" length="5470106" type="application/octet-stream" sparkle:edSignature="E+LLn6Qu6/bSCVlCoK15cPvDU379gt3Dv7nM+UJ0spSfvY94nqtkJyTPBhkRVmZdQEZ+kr0m1Rm67E9apec3BQ=="/>
+            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/MacBot.dmg" length="4592687" type="application/octet-stream" sparkle:edSignature="M5d2PcdrIJCv9fWNJvuW14upYsUOa1JuiW3C89IuRW2/RmOFUH2fb2UD+bg9w0plB2R9Etyp5rLzx2VupRALCQ=="/>
         </item>
     </channel>
 </rss>
