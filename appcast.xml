@@ -3,19 +3,20 @@
     <channel>
         <title>MacBot</title>
         <item>
-            <title>2.5</title>
-            <pubDate>Wed, 03 Apr 2024 15:54:47 -0400</pubDate>
-            <sparkle:version>65</sparkle:version>
-            <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
+            <title>2.5.1</title>
+            <pubDate>Sun, 05 May 2024 18:31:34 -0400</pubDate>
+            <sparkle:version>66</sparkle:version>
+            <sparkle:shortVersionString>2.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
                 <ul>
-                    <li>Claude Web View now available.</li>
+                    <li>Bug where Azure shows up by default in the menu bar has been fixed. If you're still having the issue, go to Native settings, scroll down, check and uncheck "Use Azure OpenAI".</li>
+                    <li>Chat streaming now supported for Gemini in the native view.</li>
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/MacBot.dmg" length="4631434" type="application/octet-stream" sparkle:edSignature="cyVEZZK6t9G0iQDsM1Xv20LVGbFxa67W4r4oOOPVt7hqJDpAyy449TqqI23cV5WegmGo9QaHugH+zaqIVfUdDw=="/>
+            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/MacBot.dmg" length="4607122" type="application/octet-stream" sparkle:edSignature="s9Nt5GfuD9J19c/zURhgIMAMkaSDjBgThpiEp8JHCrLcW6WyftxwKztcfwTr5fSlKSS8rQodD/JMETLpyikUDg=="/>
         </item>
     </channel>
 </rss>
