@@ -3,15 +3,17 @@
     <channel>
         <title>MacBot</title>
         <item>
-            <title>2.6.0.1</title>
+            <title>2.7.5</title>
             <pubDate>Sun, 05 May 2024 20:22:14 -0400</pubDate>
-            <sparkle:version>68</sparkle:version>
-            <sparkle:shortVersionString>2.6.0.1</sparkle:shortVersionString>
+            <sparkle:version>69</sparkle:version>
+            <sparkle:shortVersionString>2.7.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
                 <ul>
-                    <li>Minor bug fixes and improvements.</li>
+                    <li>GPT-4o and Gemini 1.5 Flash are now available models.</li>
+                    <li>GPT chat streaming now available.</li>
+                    <li>Gemini API key now available.</li>
                 </ul>
             ]]>
             </description>
