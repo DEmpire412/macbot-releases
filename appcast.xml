@@ -1,4 +1,4 @@
-Gll<?xml version="1.0" standalone="yes"?>
+<?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>MacBot</title>
@@ -12,12 +12,12 @@ Gll<?xml version="1.0" standalone="yes"?>
                 <h2>What's New</h2>
                 <ul>
                     <li>GPT-4o and Gemini 1.5 Flash are now available models.</li>
-                    <li>Gemini model selection now available.</li>
-                    <li>Bug fixes and improvements.</li>
+                    <li>GPT chat streaming now available.</li>
+                    <li>Gemini API key now available.</li>
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/download/prod/MacBot.dmg" length="4804000" type="application/octet-stream" sparkle:edSignature="OAUDegHDx8K1hI8qB6i23LdWyj6HXwYgHlySRny8dNrPIl3SN2WfsKLxBc84Zn+/lE4bdLcf23ZZKpZi88R5Aw=="/>
+            <enclosure url="https://github.com/DEmpire412/macbot-releases/releases/tag/prod" length="4804000" type="application/octet-stream" sparkle:edSignature="OAUDegHDx8K1hI8qB6i23LdWyj6HXwYgHlySRny8dNrPIl3SN2WfsKLxBc84Zn+/lE4bdLcf23ZZKpZi88R5Aw=="/>
         </item>
     </channel>
 </rss>
